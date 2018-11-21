@@ -1,6 +1,6 @@
 # android-apk-decompile
 Android decompile tools for mac
-安卓apk反编译工具，一键反编译AndroidMainfest.xml layout res等资源以及class文件
+安卓apk反编译工具，一键反编译AndroidMainfest.xml layout res等资源以及class文件  
 使用方法：  
 1:复制apk文件到android-apk-decompile所在目录  
 2:windows：直接把apk文件拖入bat即可  
